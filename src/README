@@ -1,0 +1,10 @@
+Actividad con SJP
+
+Crear un sitio que permita capturar información de un estudiante para
+la solicitud de una beca.
+Campos requeridos:
+Nombre, Apellido paterno, Apellido Materno, Teléfono, Email
+Nombre de universidad, Carrera, Semestre, Matriculo o contro y
+Motivo de la solcitude de beca.
+Se debe disponer de un botón submit para enviar los datos a un segundo sitio
+llamado Resumen de solicitud.
